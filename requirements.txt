@@ -2,4 +2,4 @@ pandas
 matplotlib
 seaborns
 numpy
-pyLab
+
